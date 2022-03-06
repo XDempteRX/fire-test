@@ -31,8 +31,7 @@ print("""\033[31m
 ╔══╗╔═╦═╗╔╗╔╗╔╦╗╔══╗╔══╗
 ╚║║╝║║║║║╚╗╔╝║║║╚║║╝║═╦╝
 ╔║║╗║║║║║╔╝╚╗║║║╔║║╗║╔╝─
-╚══╝╚╩═╩╝╚╝╚╝╚═╝╚══╝╚╝──""")
-print("\033[31mCode By Lexsh1n X Xuif"")
+╚══╝╚╩═╩╝╚╝╚╝╚═╝╚══╝╚╝──"")
 print("\033[31mAttack By Xuif X Lexsh1n"")
 print("\033[31mAttacking By Xuif X Lexsh1n To IP %s|%s"%(orgip,port))
 
