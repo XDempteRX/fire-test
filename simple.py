@@ -26,6 +26,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        codecs.decode("081e7eda","hex_codec")#cookie port 7784 tambem
                        ]
 
+os.system("clear")
 print("""\033[31m
 ╔══╗╔═╦═╗╔╗╔╗╔╦╗╔══╗╔══╗
 ╚║║╝║║║║║╚╗╔╝║║║╚║║╝║═╦╝
