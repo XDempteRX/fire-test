@@ -8,7 +8,7 @@ import multiprocessing
 
 print("\u001b[36;1m╔═════HypeNet@\u001b[37;1mKeyCode")
 username = input("\u001b[36;1m╚═════════>>\u001b[37;1m ")
-if username == 'ItzXD3MP':
+if username == '':
      print("[!]: We didn't found this username!")
 
 else : 
@@ -20,7 +20,7 @@ else :
 
 print("\u001b[36;1m╔═════HypeNet@\u001b[37;1mKeyCode")
 keycode = input("\u001b[36;1m╚═════════>>\u001b[37;1m ")
-if keycode == 'XD3MP':
+if keycode == '':
      print("[!]: The Key Are Vaild.")
 os.system("clear")
 
