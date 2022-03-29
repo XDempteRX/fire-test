@@ -9,11 +9,11 @@ print( '''
 ////////////////////////////////////////////////////////////
 Codeing By XD3MP;SAMP UDP FlooD
 
-                            ATTACK | SERVER | HOME
+                            ATTACK | SAMP | WEBSITE
 ____________________________________________________________
 ------------------------------------------------------------
 	''')
-#CREATE BY.Wachira
+#CREATE BY XD3MP;SAMP
 print("\033[0m")
 ip = str(input(" \033[1;32;40m[ENTER] Host/Ip: \033[0m"))
 port = int(input(" \033[1;32;40m[ENTER] Port\033[1;34;40m(\033[1;31;40m80\033[1;34;40m): \033[0m"))
